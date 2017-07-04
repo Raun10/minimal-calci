@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calci</string>
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button_dot">.</string>
+
+    <string name="button_equal">=</string>
+    <string name="button_divide">÷</string>
+    <string name="button_multiply">×</string>
+    <string name="button_subtract">–</string>
+    <string name="button_add">+</string>
+    <string name="button_percentage">%</string>
+    <string name="button_cavet">^</string>
+    <string name="button_squareroot">√</string>
+    <string name="button_open_bracket">(</string>
+    <string name="button_closed_bracket">)</string>
+    <string name="button_factorial">!</string>
+    <string name="button_arrow"></string>
+
+    <string name="java_add"> &#x2009;+ &#x2009;</string>
+</resources>
